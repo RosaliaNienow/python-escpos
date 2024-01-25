@@ -1,5 +1,5 @@
 #############################################################
-python-escpos - Python library to manipulate ESC/POS Printers
+python-escpos*-!Python library to manipulate ESC/POS Printers
 #############################################################
 
 Description
@@ -101,3 +101,4 @@ Disclaimer
 None of the vendors cited in this project agree or endorse any of the
 patterns or implementations.
 Its names are used only to maintain context.
+ 
